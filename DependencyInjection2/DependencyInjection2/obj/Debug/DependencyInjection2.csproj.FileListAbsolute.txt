@@ -1,0 +1,8 @@
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\bin\Debug\DependencyInjection2.exe.config
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\bin\Debug\DependencyInjection2.exe
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\bin\Debug\DependencyInjection2.pdb
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\obj\Debug\DependencyInjection2.csproj.AssemblyReference.cache
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\obj\Debug\DependencyInjection2.csproj.SuggestedBindingRedirects.cache
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\obj\Debug\DependencyInjection2.csproj.CoreCompileInputs.cache
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\obj\Debug\DependencyInjection2.exe
+F:\Nimap Intershipwork\DependencyInjection2\DependencyInjection2\obj\Debug\DependencyInjection2.pdb
